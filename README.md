@@ -2,9 +2,11 @@
 Overview
 Supply chain disruptions can lead to significant operational inefficiencies, increased logistics costs, and customer dissatisfaction. This project leverages Machine Learning to predict shipment delays before they occur, enabling organizations to proactively manage risks and improve supply chain reliability.
 The solution analyzes shipment, supplier, customs, weather, and operational data to classify shipments into three categories:
+
 •	✅ On-Time
 •	⚠️ Minor Delay
 •	🚨 Major Delay
+
 The project demonstrates how predictive analytics can transform supply chain operations from reactive problem-solving to proactive risk management.
 ________________________________________
 Problem Statement
