@@ -1,0 +1,601 @@
+shipment_id,origin,destination,transport_mode,actual_delay,predicted_delay,risk_score,trade_value,correct_prediction
+SH1595,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.7895,105126.13820799108,1
+SH0422,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.8047,83024.88491443083,1
+SH1447,Paris,Lyon,Rail,Major Delay,Major Delay,2.7621999999999995,33861.272283754115,1
+SH1034,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.9669,85469.73109816297,1
+SH0127,Shenzhen,Long Beach,Maritime,Minor Delay,Minor Delay,1.6031,3816.8605876510615,1
+SH0637,Delhi,Mumbai,Rail,On-Time,On-Time,0.4944999999999999,2843.9013149858697,1
+SH1518,Mumbai,Felixstowe,Maritime,Minor Delay,Minor Delay,1.6587999999999998,112656.067226306,1
+SH0590,Hamburg,Charleston,Maritime,On-Time,On-Time,1.2823,108363.9958686075,1
+SH0992,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.9428,81966.72613118678,1
+SH0228,Chennai,Bangalore,Rail,On-Time,On-Time,0.7429,4611.495904654899,1
+SH1883,Rotterdam,New York,Maritime,On-Time,On-Time,1.1302,99001.9500321842,1
+SH0294,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.2245,4627.210215720227,1
+SH1374,Kolkata,Delhi,Rail,On-Time,On-Time,1.04075,11908.003755399684,1
+SH1933,Hamburg,Charleston,Maritime,On-Time,On-Time,1.4523,11402.41933021647,1
+SH0608,Shanghai,Los Angeles,Maritime,Minor Delay,Major Delay,2.2988,11672.129272612445,0
+SH0553,Paris,Lyon,Rail,Major Delay,Major Delay,3.9428,24672.39207135796,1
+SH0735,Kolkata,Delhi,Rail,On-Time,On-Time,0.95645,11551.710699183566,1
+SH1711,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.475199999999999,65580.13863455379,1
+SH1901,Delhi,Mumbai,Rail,On-Time,On-Time,0.8885,10196.90233600999,1
+SH1317,Kolkata,Delhi,Rail,On-Time,On-Time,1.05555,4597.857461750396,1
+SH0356,Rotterdam,New York,Maritime,On-Time,On-Time,0.2715499999999999,35551.59377891188,1
+SH0753,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.8676500000000001,20726.73227537837,1
+SH0340,Kolkata,Delhi,Rail,Minor Delay,Major Delay,1.50785,1139.099888611371,0
+SH0652,Chennai,Bangalore,Rail,On-Time,On-Time,0.49265,33429.30649816656,1
+SH1750,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.1622,15156.321678714305,1
+SH0090,Chennai,Bangalore,Rail,Minor Delay,Minor Delay,1.507,22360.13474387556,1
+SH1115,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.5143999999999995,57237.46679275359,1
+SH0464,Mumbai,Felixstowe,Maritime,Minor Delay,Minor Delay,1.1344,11825.981792682882,1
+SH1580,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.7576,35468.45250757109,1
+SH1196,Paris,Lyon,Rail,Major Delay,Major Delay,5.910399999999999,7225.734441067584,1
+SH0990,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,3.46675,2786.2977862500493,1
+SH0284,Frankfurt,Berlin,Rail,On-Time,On-Time,1.1157,240857.5507095222,1
+SH1303,Paris,Lyon,Rail,On-Time,On-Time,1.6241499999999998,138182.9232727881,1
+SH0137,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.8194,7234.783536719023,0
+SH0984,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.7735,4216.974272538238,1
+SH1427,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.21345,14423.45872716331,1
+SH0821,Paris,Lyon,Rail,On-Time,On-Time,0.84715,10913.68913223684,1
+SH1467,Rotterdam,New York,Maritime,Minor Delay,Minor Delay,1.2458,3192.179780520561,1
+SH0302,Chennai,Bangalore,Rail,Major Delay,Minor Delay,1.4245,431.2427981174375,0
+SH1555,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.77785,45977.45680562576,1
+SH0705,Chennai,Bangalore,Rail,On-Time,On-Time,0.84795,28946.18309186728,1
+SH1902,Hamburg,Charleston,Maritime,Major Delay,Major Delay,4.06865,5566.49975794788,1
+SH0320,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.41845,24940.51468069608,1
+SH1491,Hamburg,Charleston,Maritime,On-Time,On-Time,1.6816,32306.39029579529,1
+SH0589,Hamburg,Charleston,Maritime,Minor Delay,Major Delay,2.22115,78.28308957348554,0
+SH1547,Rotterdam,New York,Maritime,On-Time,On-Time,1.2444000000000002,13258.476259951032,1
+SH1823,Shenzhen,Long Beach,Maritime,Major Delay,Minor Delay,0.9944,35634.171215382055,0
+SH1382,Rotterdam,New York,Maritime,On-Time,On-Time,1.1406,26516.40578889188,1
+SH0171,Paris,Lyon,Rail,On-Time,On-Time,0.37245,154219.49085085205,1
+SH1445,Frankfurt,Berlin,Rail,On-Time,Minor Delay,1.82025,69900.22194815724,0
+SH0477,Chennai,Bangalore,Rail,On-Time,On-Time,0.80705,69960.37484727232,1
+SH1132,Delhi,Mumbai,Rail,On-Time,On-Time,1.0431,2980.613097547977,1
+SH1649,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.2836,165067.92492943016,1
+SH0033,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.836,5083.051924916061,1
+SH0707,Paris,Lyon,Rail,Major Delay,Minor Delay,1.2860999999999998,68464.56998671255,0
+SH0064,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.9461,4474.056783588848,1
+SH1009,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.39705,86606.02543234132,1
+SH1275,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.9395999999999995,13193.797009068408,1
+SH1301,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.6757,111638.36632858487,1
+SH0108,Frankfurt,Berlin,Rail,On-Time,On-Time,1.1926,6795.026235027831,1
+SH0624,Paris,Lyon,Rail,On-Time,On-Time,0.91955,98609.90188560222,1
+SH0720,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.5972,27739.82244636786,1
+SH1197,Shanghai,Los Angeles,Maritime,Minor Delay,On-Time,0.7588,7171.074809650251,0
+SH0180,Delhi,Mumbai,Rail,Minor Delay,Minor Delay,1.7613,6939.645008668048,1
+SH1904,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.0553500000000002,52718.8392603764,1
+SH1175,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.55155,13709.24331797007,1
+SH0726,Kolkata,Delhi,Rail,On-Time,On-Time,0.8462000000000001,23850.517075732125,1
+SH0026,Hamburg,Charleston,Maritime,On-Time,On-Time,0.77045,24374.132905245195,1
+SH1182,Paris,Lyon,Rail,On-Time,On-Time,0.74515,57471.48928125357,1
+SH0349,Delhi,Mumbai,Rail,Major Delay,Major Delay,1.7785,69094.30368071361,1
+SH1708,Rotterdam,New York,Maritime,On-Time,On-Time,1.11175,4043.1958213118687,1
+SH1294,Hamburg,Charleston,Maritime,On-Time,On-Time,1.28525,29922.9916079128,1
+SH1603,Chennai,Bangalore,Rail,On-Time,On-Time,1.0496,15398.962680012106,1
+SH0315,Chennai,Bangalore,Rail,Minor Delay,Major Delay,1.5886,27457.728280339565,0
+SH1920,Kolkata,Delhi,Rail,Minor Delay,Minor Delay,1.2366,27569.66448367555,1
+SH0639,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.63615,20793.095969502017,1
+SH1367,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.12055,23590.720003790248,1
+SH1213,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,3.43795,5246.062277727401,1
+SH1744,Paris,Lyon,Rail,On-Time,On-Time,0.65295,184195.19419223448,1
+SH0927,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.61955,17137.38453044529,1
+SH0876,Paris,Lyon,Rail,On-Time,On-Time,0.7382,59701.50562156351,1
+SH0423,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.6607,7665.111984145034,1
+SH1906,Paris,Lyon,Rail,On-Time,On-Time,0.6609999999999999,3740.098293946245,1
+SH0438,Rotterdam,New York,Maritime,On-Time,On-Time,0.50895,12852.28970411458,1
+SH0004,Mumbai,Felixstowe,Maritime,Minor Delay,Major Delay,1.9356,13851.951943351743,0
+SH0381,Hamburg,Charleston,Maritime,Major Delay,Major Delay,5.089249999999999,5760.5477335102905,1
+SH1368,Chennai,Bangalore,Rail,On-Time,On-Time,0.7888000000000001,17589.492147514396,1
+SH0170,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.1039000000000003,40010.23498217801,1
+SH0237,Hamburg,Charleston,Maritime,Major Delay,Major Delay,1.72205,1208.5228682326358,1
+SH1354,Chennai,Bangalore,Rail,On-Time,On-Time,0.51235,5097.195498873363,1
+SH1039,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.37605,5729.741531510925,1
+SH0480,Paris,Lyon,Rail,On-Time,On-Time,0.60785,21683.400793505305,1
+SH1081,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.69455,179628.51987865224,1
+SH0527,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.8983,130726.16046481488,1
+SH0959,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.77285,139858.4646686734,1
+SH1143,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.27175,16929.489945894675,1
+SH1892,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.1399,194791.3534621485,1
+SH0646,Kolkata,Delhi,Rail,Minor Delay,Minor Delay,1.65245,46015.30011420189,1
+SH1339,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.79135,118417.23189711578,1
+SH0696,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.0213,29773.273450485856,1
+SH1948,Hamburg,Charleston,Maritime,On-Time,On-Time,0.42,1605.5304704935795,1
+SH0856,Delhi,Mumbai,Rail,On-Time,On-Time,1.74355,9504.021139844925,1
+SH1850,Kolkata,Delhi,Rail,On-Time,On-Time,0.22945,43931.36611274837,1
+SH0736,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.74755,289181.8437305624,1
+SH1667,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.25455,821.185589683875,1
+SH1071,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.3467,23321.689940182267,1
+SH0231,Rotterdam,New York,Maritime,On-Time,On-Time,0.46015,163632.87924639657,1
+SH1210,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.0865,68682.8354777799,1
+SH1103,Kolkata,Delhi,Rail,On-Time,On-Time,1.1728999999999998,133412.51573206385,1
+SH0239,Frankfurt,Berlin,Rail,On-Time,On-Time,0.8488,113304.81809600926,1
+SH0577,Hamburg,Charleston,Maritime,On-Time,On-Time,0.7799999999999999,17906.99266421772,1
+SH1998,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.8835999999999999,26523.657956519764,1
+SH0520,Frankfurt,Berlin,Rail,On-Time,On-Time,0.91425,108681.1973443741,1
+SH1358,Rotterdam,New York,Maritime,On-Time,On-Time,1.34955,4257.62022936015,1
+SH1056,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.9813,23205.71519994437,1
+SH1994,Paris,Lyon,Rail,Major Delay,Major Delay,2.48095,139276.95781179715,1
+SH0326,Frankfurt,Berlin,Rail,Major Delay,Major Delay,3.59255,124653.65167172592,1
+SH1664,Paris,Lyon,Rail,On-Time,On-Time,0.4027,1012872.8037435984,1
+SH1800,Delhi,Mumbai,Rail,Major Delay,Major Delay,3.0042000000000004,514.1514326294373,1
+SH1966,Chennai,Bangalore,Rail,On-Time,On-Time,0.7304499999999999,35110.24838698662,1
+SH1417,Paris,Lyon,Rail,Minor Delay,Minor Delay,0.8358500000000001,348311.008666746,1
+SH1392,Hamburg,Charleston,Maritime,On-Time,On-Time,0.8283,13809.363817509113,1
+SH1184,Chennai,Bangalore,Rail,Major Delay,Major Delay,3.67145,2499.724532476948,1
+SH0050,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.51125,23556.3405416104,1
+SH0765,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.2063,95977.56978687664,1
+SH1068,Paris,Lyon,Rail,Minor Delay,Minor Delay,0.99255,12716.280567244796,1
+SH1288,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.11135,3031.4842981218567,1
+SH1177,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.8781,19927.604947098585,1
+SH0898,Paris,Lyon,Rail,On-Time,On-Time,0.8146,96707.91730309112,1
+SH0831,Delhi,Mumbai,Rail,On-Time,On-Time,1.1909999999999998,28952.846946739606,1
+SH1791,Delhi,Mumbai,Rail,Major Delay,Minor Delay,1.2922999999999998,2948.9981219664783,0
+SH0295,Hamburg,Charleston,Maritime,On-Time,On-Time,0.4844,12276.285407676703,1
+SH0359,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.9791,248873.04519623148,1
+SH0399,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.49235,11161.498895572277,1
+SH0084,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.5775,3707.56567162112,1
+SH1652,Chennai,Bangalore,Rail,On-Time,On-Time,0.6496999999999999,10627.821885530911,1
+SH0892,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.06045,7701.801288719029,1
+SH0605,Shenzhen,Long Beach,Maritime,Minor Delay,On-Time,0.715,38805.54749916149,0
+SH0282,Delhi,Mumbai,Rail,On-Time,On-Time,0.4377,32563.32019146374,1
+SH0193,Paris,Lyon,Rail,On-Time,On-Time,0.37705,29222.714906488545,1
+SH1062,Hamburg,Charleston,Maritime,On-Time,On-Time,0.92905,5670.957078724607,1
+SH0971,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.43745,23241.712597502185,0
+SH0038,Chennai,Bangalore,Rail,Minor Delay,Minor Delay,1.7279,11305.489267466755,1
+SH0978,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.65975,8512.805654102245,1
+SH0268,Rotterdam,New York,Maritime,On-Time,On-Time,0.39605,196281.81410219285,1
+SH0733,Delhi,Mumbai,Rail,On-Time,On-Time,0.79565,17583.856625295055,1
+SH1694,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.3479999999999994,1756.0843463887184,1
+SH1293,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.6248,12016.019647452213,1
+SH1069,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.52495,466990.52588456846,1
+SH1642,Delhi,Mumbai,Rail,Major Delay,Major Delay,3.50695,40456.06924240176,1
+SH0771,Delhi,Mumbai,Rail,On-Time,On-Time,1.47755,2738.2447144170105,1
+SH1654,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.77545,2511.3857253244105,1
+SH0787,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.23635,695587.6299866172,1
+SH1223,Delhi,Mumbai,Rail,On-Time,On-Time,0.4891,574.5579884683793,1
+SH0768,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.66055,85845.61623231298,1
+SH1563,Mumbai,Felixstowe,Maritime,Minor Delay,Major Delay,2.08935,58934.426205285934,0
+SH1970,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.5723499999999997,40151.16555356611,1
+SH0641,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.6147,20162.509623323724,1
+SH0614,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.7420999999999998,7343.3518698840435,1
+SH0651,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.8095,5924.387629578751,1
+SH0125,Hamburg,Charleston,Maritime,On-Time,On-Time,0.6401,19399.861138710192,1
+SH1753,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.3370000000000002,15872.14851846188,1
+SH0039,Hamburg,Charleston,Maritime,On-Time,On-Time,0.51465,11386.725983867504,1
+SH0610,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.87505,5827.052144611797,1
+SH1675,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.48385,12222.563718150484,1
+SH1756,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.0621,73440.02732959433,1
+SH1406,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.82745,124324.8041944844,1
+SH1724,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.1742,5261.154332227078,1
+SH0009,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.6489000000000003,177813.16269687662,1
+SH1944,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,3.27275,49886.53417959392,0
+SH1658,Frankfurt,Berlin,Rail,Major Delay,Major Delay,3.54965,10446.148643460225,1
+SH0175,Hamburg,Charleston,Maritime,On-Time,On-Time,0.768,13744.458211233889,1
+SH1478,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.17315,40783.91207184613,1
+SH0666,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.09725,15932.31070369793,1
+SH1953,Delhi,Mumbai,Rail,On-Time,On-Time,0.9689,82829.27467800915,1
+SH0158,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.7878500000000002,10815.453447235304,1
+SH0889,Paris,Lyon,Rail,Major Delay,Major Delay,2.0762,27460.839495164862,1
+SH1453,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.9384,12969.247684509932,1
+SH1819,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.3920499999999998,2397.3374165297305,1
+SH1357,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.6055,91978.77332726234,0
+SH1774,Rotterdam,New York,Maritime,On-Time,On-Time,0.4692999999999999,16810.543368959945,1
+SH0361,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.5171,44509.90898661481,1
+SH1479,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.24055,25276.19449065667,1
+SH1962,Paris,Lyon,Rail,Minor Delay,Minor Delay,0.7698,5235.880726690179,1
+SH0328,Frankfurt,Berlin,Rail,On-Time,On-Time,1.4377,54956.05076667609,1
+SH1018,Delhi,Mumbai,Rail,On-Time,On-Time,0.91015,7048.16345300717,1
+SH0276,Frankfurt,Berlin,Rail,Major Delay,Major Delay,3.63675,194835.9524638095,1
+SH0674,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.7874499999999998,5845.049896299196,1
+SH0780,Frankfurt,Berlin,Rail,On-Time,On-Time,1.5577,17174.156017877234,1
+SH0470,Kolkata,Delhi,Rail,On-Time,On-Time,0.98245,144397.5082991674,1
+SH1741,Hamburg,Charleston,Maritime,On-Time,On-Time,0.8586,34134.26390877216,1
+SH0174,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.9589,39348.48612397955,1
+SH1693,Hamburg,Charleston,Maritime,On-Time,On-Time,1.3813,822.0112770483894,1
+SH1736,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.8210499999999998,53062.58715176807,1
+SH0191,Hamburg,Charleston,Maritime,On-Time,On-Time,1.0447,52208.9020231733,1
+SH0331,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.1923,67746.01600178453,1
+SH1959,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.67405,47665.51241653147,1
+SH0559,Paris,Lyon,Rail,Major Delay,Minor Delay,1.1064,1509.876543627585,0
+SH0665,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.2035,38829.41916844708,1
+SH1809,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.573,30530.75342247648,1
+SH1434,Delhi,Mumbai,Rail,On-Time,On-Time,1.6386000000000005,81873.76517010805,1
+SH0044,Kolkata,Delhi,Rail,Minor Delay,Minor Delay,1.4462,4862.781865966814,1
+SH1882,Chennai,Bangalore,Rail,On-Time,On-Time,0.5544,12036.382860976531,1
+SH0118,Chennai,Bangalore,Rail,On-Time,On-Time,0.37665,17112.04103966735,1
+SH1951,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.4126,42006.90722137706,1
+SH0478,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.9174,35295.40359595852,1
+SH0522,Hamburg,Charleston,Maritime,On-Time,On-Time,1.20285,7630.738033417865,1
+SH0576,Chennai,Bangalore,Rail,On-Time,On-Time,0.6050499999999999,40010.10275468291,1
+SH0002,Chennai,Bangalore,Rail,On-Time,On-Time,1.0889,38548.727605106265,1
+SH1910,Rotterdam,New York,Maritime,On-Time,On-Time,1.3752,436.1352248354348,1
+SH1653,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.69675,47842.01778495018,1
+SH0570,Paris,Lyon,Rail,On-Time,On-Time,0.59275,167437.63163642577,1
+SH1698,Paris,Lyon,Rail,On-Time,On-Time,0.8578499999999999,32250.576763812885,1
+SH0942,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.06785,15432.70215230588,1
+SH1381,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.0567,37620.70978781849,1
+SH1172,Paris,Lyon,Rail,Major Delay,Major Delay,2.14465,5872.639079664604,1
+SH0870,Hamburg,Charleston,Maritime,Major Delay,Minor Delay,0.8967499999999999,7926.545459114383,0
+SH1975,Rotterdam,New York,Maritime,On-Time,On-Time,0.87,24125.98839979976,1
+SH0982,Chennai,Bangalore,Rail,Major Delay,Major Delay,3.00995,269377.875249909,1
+SH1483,Chennai,Bangalore,Rail,On-Time,On-Time,1.2898,36029.53530109356,1
+SH1048,Rotterdam,New York,Maritime,Minor Delay,Major Delay,1.63605,44397.2525613798,0
+SH0203,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.61455,9418.111648723394,1
+SH1470,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.6751500000000004,6514.796572019287,1
+SH0926,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.9871,13132.56273884843,1
+SH0393,Chennai,Bangalore,Rail,On-Time,On-Time,0.89665,34040.752120224875,1
+SH1305,Frankfurt,Berlin,Rail,Major Delay,Major Delay,3.08545,26698.14223144608,1
+SH1778,Hamburg,Charleston,Maritime,Minor Delay,Minor Delay,1.2962,87100.68548864569,1
+SH1205,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.62615,224608.9866413555,1
+SH1299,Paris,Lyon,Rail,On-Time,On-Time,1.6928499999999995,538325.4529744028,1
+SH0869,Kolkata,Delhi,Rail,On-Time,On-Time,0.9684,14147.181889086603,1
+SH0177,Delhi,Mumbai,Rail,On-Time,On-Time,1.0606,31725.208186505144,1
+SH0051,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.2318,23031.87049031352,1
+SH0265,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.4961,273214.371621432,1
+SH1718,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.5857,68724.30275528721,1
+SH0205,Paris,Lyon,Rail,Major Delay,Major Delay,4.4889,13858.287423499542,1
+SH1405,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.88435,28630.979279178453,1
+SH1369,Frankfurt,Berlin,Rail,On-Time,On-Time,1.0451,14788.338717313907,1
+SH0086,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.12665,2335.9704707376554,1
+SH0580,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.6167,35423.51614397253,1
+SH0994,Delhi,Mumbai,Rail,Major Delay,Minor Delay,1.38845,30636.370167627032,0
+SH0579,Kolkata,Delhi,Rail,Minor Delay,Major Delay,1.9359,180721.7482580382,0
+SH0155,Paris,Lyon,Rail,Minor Delay,Minor Delay,2.0427,67112.45623927929,1
+SH1949,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.671,27140.14459490101,1
+SH0298,Paris,Lyon,Rail,On-Time,On-Time,0.93745,18720.84355449028,1
+SH0475,Paris,Lyon,Rail,On-Time,On-Time,1.3748999999999998,34617.36122366427,1
+SH0285,Delhi,Mumbai,Rail,On-Time,On-Time,0.97355,627.9816577967633,1
+SH1552,Hamburg,Charleston,Maritime,Major Delay,Major Delay,1.9652,17359.88798279876,1
+SH1250,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.30885,11525.89781685358,1
+SH0700,Kolkata,Delhi,Rail,On-Time,On-Time,1.3931999999999998,6496.570933393808,1
+SH1373,Delhi,Mumbai,Rail,On-Time,On-Time,0.9905,14175.939244489651,1
+SH1695,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.4175,56523.21112942168,1
+SH1905,Rotterdam,New York,Maritime,On-Time,On-Time,0.57235,63062.80915265172,1
+SH1206,Frankfurt,Berlin,Rail,Minor Delay,Major Delay,2.38335,11469.188202804064,0
+SH1489,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.58385,8542.864519920173,1
+SH0382,Shenzhen,Long Beach,Maritime,Minor Delay,Minor Delay,0.6499999999999999,138974.44056984535,1
+SH1356,Frankfurt,Berlin,Rail,On-Time,On-Time,0.7839999999999999,302408.8779544519,1
+SH1036,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.28915,1464.2618468283215,1
+SH0526,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.5095,28274.84753825761,1
+SH1825,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.17935,34309.40860608857,1
+SH0344,Delhi,Mumbai,Rail,Major Delay,Major Delay,1.88325,4089.267311614806,1
+SH0472,Paris,Lyon,Rail,On-Time,On-Time,1.13055,2157.5743600890905,1
+SH1673,Chennai,Bangalore,Rail,On-Time,On-Time,0.7803000000000001,2216.6875206754144,1
+SH1582,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.4516,58318.62750665877,1
+SH0808,Mumbai,Felixstowe,Maritime,Minor Delay,Major Delay,2.6028,13611.538668940111,0
+SH0643,Paris,Lyon,Rail,Major Delay,Major Delay,3.3155,13660.68531984996,1
+SH0954,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.97735,12706.743177306522,1
+SH0432,Hamburg,Charleston,Maritime,Major Delay,Major Delay,1.52855,90449.3327198101,1
+SH0015,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.60375,1056.045045429952,1
+SH1680,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.1910000000000003,11192.519783027945,1
+SH1785,Hamburg,Charleston,Maritime,On-Time,On-Time,0.6330999999999999,26223.04848303261,1
+SH0497,Delhi,Mumbai,Rail,On-Time,On-Time,0.444,8307.543067654497,1
+SH0644,Paris,Lyon,Rail,Minor Delay,Minor Delay,1.53755,5039.381034146781,1
+SH0596,Paris,Lyon,Rail,On-Time,On-Time,1.2196,22661.828200904318,1
+SH0960,Chennai,Bangalore,Rail,On-Time,On-Time,0.8322499999999999,23388.21048902437,1
+SH0345,Hamburg,Charleston,Maritime,Minor Delay,Major Delay,2.2329,32346.33199657413,0
+SH0827,Rotterdam,New York,Maritime,On-Time,On-Time,0.3353,97831.72427890396,1
+SH1012,Chennai,Bangalore,Rail,On-Time,On-Time,1.46305,8259.789307739038,1
+SH0259,Paris,Lyon,Rail,Major Delay,Major Delay,2.8833,8985.428609257604,1
+SH1918,Paris,Lyon,Rail,Major Delay,Major Delay,2.6337,7061.713721650773,1
+SH1550,Paris,Lyon,Rail,On-Time,On-Time,0.95655,36096.15772549724,1
+SH1985,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.3279,10978.261898782855,1
+SH1166,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,0.9411,8092.142023196397,1
+SH0402,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.62635,1846.212062567473,1
+SH1435,Paris,Lyon,Rail,On-Time,On-Time,0.6671,1610.5395561544794,1
+SH1865,Chennai,Bangalore,Rail,On-Time,Minor Delay,1.0804,12681.080120643346,0
+SH1330,Frankfurt,Berlin,Rail,On-Time,On-Time,1.51685,257835.3701976068,1
+SH0991,Paris,Lyon,Rail,On-Time,On-Time,0.2405,1469.772426157337,1
+SH1263,Mumbai,Felixstowe,Maritime,Minor Delay,Minor Delay,1.77275,34635.0523735495,1
+SH0093,Paris,Lyon,Rail,On-Time,On-Time,1.1162999999999998,17142.523830866314,1
+SH0789,Paris,Lyon,Rail,On-Time,On-Time,0.96255,31292.78834777455,1
+SH1313,Frankfurt,Berlin,Rail,On-Time,On-Time,0.97565,91858.40225486492,1
+SH0636,Chennai,Bangalore,Rail,Minor Delay,Minor Delay,1.64835,48232.152871293474,1
+SH0564,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,1.7473,93219.26718547044,1
+SH1733,Paris,Lyon,Rail,On-Time,On-Time,0.41805,4700.211876797566,1
+SH0367,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.7553000000000003,10582.761307970515,1
+SH1526,Rotterdam,New York,Maritime,Major Delay,Major Delay,3.0284,18385.83308556249,1
+SH1732,Shenzhen,Long Beach,Maritime,On-Time,Minor Delay,1.548,6485.294946417008,0
+SH0036,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.0199,3175.79545379774,1
+SH0056,Frankfurt,Berlin,Rail,On-Time,On-Time,0.5845,30812.69093558769,1
+SH0619,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.79135,4862.475465672294,1
+SH1784,Frankfurt,Berlin,Rail,On-Time,On-Time,1.3442500000000002,6756.7499410874825,1
+SH1098,Delhi,Mumbai,Rail,On-Time,On-Time,0.8599,335728.0712582785,1
+SH1287,Frankfurt,Berlin,Rail,On-Time,On-Time,0.7968500000000001,8130.857735530045,1
+SH0149,Chennai,Bangalore,Rail,On-Time,On-Time,1.2112,25795.722983102416,1
+SH1945,Delhi,Mumbai,Rail,Minor Delay,Major Delay,1.50525,436802.3102500938,0
+SH0243,Rotterdam,New York,Maritime,On-Time,Major Delay,1.80835,9470.736578344837,0
+SH0766,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.1547,11113.19689906568,1
+SH1579,Paris,Lyon,Rail,On-Time,On-Time,1.1054,16201.635372009065,1
+SH1186,Hamburg,Charleston,Maritime,Major Delay,Major Delay,2.1004,9884.589633670832,1
+SH1067,Delhi,Mumbai,Rail,On-Time,On-Time,1.09845,21711.813365444228,1
+SH0085,Hamburg,Charleston,Maritime,Major Delay,Major Delay,2.10305,47175.80836142448,1
+SH1960,Kolkata,Delhi,Rail,On-Time,On-Time,1.2443,328484.94767185044,1
+SH0397,Hamburg,Charleston,Maritime,On-Time,On-Time,0.93315,6612.539140357128,1
+SH1914,Shanghai,Los Angeles,Maritime,Minor Delay,Major Delay,1.939,260672.1342455437,0
+SH1543,Rotterdam,New York,Maritime,On-Time,On-Time,0.5124500000000001,23886.583243558616,1
+SH0582,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.8788499999999999,18130.332863572025,1
+SH0112,Hamburg,Charleston,Maritime,On-Time,On-Time,1.2927,91625.1785563546,1
+SH1816,Chennai,Bangalore,Rail,Minor Delay,Minor Delay,0.42225,1138382.7513950162,1
+SH0929,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.5603000000000002,169300.4132370039,1
+SH1779,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.67905,21515.74167974259,1
+SH1411,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.0743999999999998,1173.1003981573228,1
+SH0321,Chennai,Bangalore,Rail,On-Time,On-Time,1.0105,16423.232106948068,1
+SH0082,Rotterdam,New York,Maritime,Major Delay,Major Delay,1.904,24882.38156033638,1
+SH0534,Rotterdam,New York,Maritime,On-Time,On-Time,0.3751,15019.62209687657,1
+SH1245,Hamburg,Charleston,Maritime,On-Time,On-Time,0.90525,36637.55099959871,1
+SH0701,Hamburg,Charleston,Maritime,On-Time,On-Time,0.7690499999999998,200298.36273224352,1
+SH1323,Paris,Lyon,Rail,On-Time,On-Time,0.7952999999999999,31675.46687052602,1
+SH0289,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.3424500000000004,25427.937516959628,1
+SH0794,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.9908,27460.746936118325,1
+SH1258,Paris,Lyon,Rail,On-Time,On-Time,1.1495000000000002,60303.54346018425,1
+SH1463,Shanghai,Los Angeles,Maritime,Minor Delay,Major Delay,1.9478,55391.56878861953,0
+SH0703,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.31205,44801.86349159158,1
+SH1284,Mumbai,Felixstowe,Maritime,Minor Delay,Minor Delay,1.0891499999999998,68284.2559356227,1
+SH0865,Mumbai,Felixstowe,Maritime,Major Delay,Minor Delay,1.73065,23451.708470237816,0
+SH1894,Chennai,Bangalore,Rail,On-Time,On-Time,1.2847000000000002,2014.948046412889,1
+SH0346,Shanghai,Los Angeles,Maritime,Major Delay,Minor Delay,1.55345,13436.982193267297,0
+SH0391,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.7372,13605.935929992653,1
+SH1007,Rotterdam,New York,Maritime,On-Time,On-Time,0.72175,61696.28427088311,1
+SH1762,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.3791,7596.421499033635,1
+SH0902,Shanghai,Los Angeles,Maritime,Minor Delay,Major Delay,1.2846499999999998,71203.5696627383,0
+SH1109,Kolkata,Delhi,Rail,Minor Delay,Major Delay,2.3022,15476.73546837146,0
+SH1702,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.8165,5941.382097447696,1
+SH1691,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.7231,1003.2184695420616,1
+SH1679,Delhi,Mumbai,Rail,On-Time,Minor Delay,1.3373499999999998,5709.395848702004,0
+SH1243,Hamburg,Charleston,Maritime,On-Time,On-Time,0.3912,60817.51733443467,1
+SH0833,Kolkata,Delhi,Rail,On-Time,On-Time,0.7185499999999999,9093.918196330753,1
+SH1876,Paris,Lyon,Rail,Major Delay,Major Delay,2.664,40490.02346508212,1
+SH0955,Frankfurt,Berlin,Rail,On-Time,On-Time,0.9477,20026.08459294457,1
+SH1268,Chennai,Bangalore,Rail,On-Time,On-Time,0.7039500000000001,15266.591307867508,1
+SH0767,Hamburg,Charleston,Maritime,Major Delay,Major Delay,4.80335,15808.86366682708,1
+SH0832,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.26785,72115.86315112578,1
+SH1725,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.18405,8422.222922230749,1
+SH0850,Delhi,Mumbai,Rail,On-Time,On-Time,0.6150499999999999,10402.966094843536,1
+SH0633,Paris,Lyon,Rail,Minor Delay,On-Time,0.9062,2161.6893658273275,0
+SH1696,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.82925,107139.93860845234,1
+SH1568,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.15885,28951.800235638013,1
+SH0640,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.5499,214137.72464970537,1
+SH1153,Delhi,Mumbai,Rail,On-Time,On-Time,1.2051499999999995,21289.80740900745,1
+SH1181,Hamburg,Charleston,Maritime,Major Delay,Major Delay,2.5423,34738.27668534762,1
+SH0110,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.15095,2118.923902992099,1
+SH0847,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.0095,197012.113995739,1
+SH1292,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.2079500000000003,15323.12354560854,1
+SH0996,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.07255,14494.320319458016,1
+SH1148,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.3505000000000003,4974.81675132403,1
+SH0283,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.3153,1038.6418712820837,1
+SH1439,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.345,24950.150181945028,1
+SH0814,Paris,Lyon,Rail,Major Delay,Major Delay,1.9193,33699.50606998457,1
+SH1973,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.2762000000000002,15929.494400099284,1
+SH1556,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.8708499999999999,122708.9772689273,1
+SH0257,Kolkata,Delhi,Rail,On-Time,On-Time,1.3471999999999995,52583.005777913335,1
+SH0732,Delhi,Mumbai,Rail,On-Time,On-Time,1.42115,38000.70909175988,1
+SH1404,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.5737,16935.419735828622,1
+SH0934,Chennai,Bangalore,Rail,On-Time,On-Time,0.7814,43714.11774303746,1
+SH0179,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.82155,19071.66285113725,1
+SH1236,Paris,Lyon,Rail,On-Time,On-Time,1.41705,46916.34913820256,1
+SH0016,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.10195,42861.49469106164,1
+SH0263,Hamburg,Charleston,Maritime,On-Time,On-Time,1.0193,11826.24360573623,1
+SH1729,Paris,Lyon,Rail,Major Delay,Major Delay,1.68505,21753.472551170453,1
+SH0593,Kolkata,Delhi,Rail,On-Time,On-Time,0.2542999999999999,12361.67776106847,1
+SH1038,Rotterdam,New York,Maritime,Major Delay,Minor Delay,1.7355,13011.55607258575,0
+SH1214,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,3.28715,224765.7119063732,1
+SH0159,Chennai,Bangalore,Rail,On-Time,On-Time,0.9015,15579.33194093366,1
+SH0465,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.51375,1966.3707736670583,1
+SH1057,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.48305,45103.77520344604,1
+SH0695,Kolkata,Delhi,Rail,On-Time,On-Time,0.6901999999999999,32484.29693673406,1
+SH1952,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.7769499999999998,103721.28068824644,1
+SH1346,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.7306,14830.652030979638,1
+SH0917,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.02775,29939.30181967809,1
+SH0875,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.6562500000000002,69729.08971661601,1
+SH0204,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.6670499999999997,10097.441636125395,0
+SH1734,Paris,Lyon,Rail,On-Time,On-Time,1.05655,84609.03430857987,1
+SH1449,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.51595,27668.855685625906,1
+SH1228,Kolkata,Delhi,Rail,Minor Delay,Major Delay,2.1188,19352.46870850753,0
+SH0427,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.9279,20910.39421933785,1
+SH1860,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.6094999999999999,15930.639484357467,1
+SH1930,Kolkata,Delhi,Rail,Minor Delay,Major Delay,1.82575,51371.413971194015,0
+SH1835,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,3.5869,618.9728483104238,1
+SH1822,Shenzhen,Long Beach,Maritime,Major Delay,Minor Delay,1.8054,85516.13896135641,0
+SH1797,Chennai,Bangalore,Rail,On-Time,On-Time,1.31855,88882.70542653816,1
+SH1713,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.8791,2392.098062829672,1
+SH0279,Chennai,Bangalore,Rail,On-Time,On-Time,1.4401499999999998,12948.960777841132,1
+SH0574,Chennai,Bangalore,Rail,On-Time,On-Time,1.03145,3510.0890602516806,1
+SH1757,Delhi,Mumbai,Rail,On-Time,On-Time,0.28835,2875.7657639170134,1
+SH0783,Hamburg,Charleston,Maritime,Minor Delay,Major Delay,1.6062499999999995,32343.2579170103,0
+SH0014,Hamburg,Charleston,Maritime,On-Time,On-Time,0.74165,10851.973168864984,1
+SH1923,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.5902499999999999,31122.871028562025,1
+SH0370,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.8448,11108.395244927518,1
+SH1070,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.10495,3365.36852956533,1
+SH0103,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.59175,72631.74607551012,1
+SH0612,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.2226,22803.208278238857,1
+SH0492,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.7511,16957.302052892337,1
+SH0602,Chennai,Bangalore,Rail,On-Time,Minor Delay,1.29615,32403.93321400868,0
+SH1871,Hamburg,Charleston,Maritime,On-Time,On-Time,1.08175,5727.875995812279,1
+SH0506,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.8372,32946.38533428711,1
+SH1677,Paris,Lyon,Rail,On-Time,On-Time,0.5053,12871.605101438949,1
+SH0308,Frankfurt,Berlin,Rail,On-Time,On-Time,0.7603999999999999,4956.01474189806,1
+SH0956,Frankfurt,Berlin,Rail,On-Time,On-Time,1.2008500000000002,21575.74146066352,1
+SH1866,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.05045,6708.891207348084,1
+SH1630,Chennai,Bangalore,Rail,On-Time,On-Time,1.27195,50645.70915475173,1
+SH1416,Rotterdam,New York,Maritime,On-Time,On-Time,0.4322,33957.183895733666,1
+SH1539,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.3503999999999998,789491.4058448229,1
+SH1567,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.4306499999999995,2562.714695817556,1
+SH1855,Kolkata,Delhi,Rail,On-Time,On-Time,1.5947,13256.774553890467,1
+SH1001,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.4975499999999995,770.094764469783,1
+SH0664,Rotterdam,New York,Maritime,Major Delay,Major Delay,3.35265,39663.90112555509,1
+SH1937,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.6767,10876.504130059497,1
+SH0693,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.64105,35914.593972311726,1
+SH0681,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.06815,21643.016107088424,1
+SH1608,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.67755,15214.197024384845,1
+SH0751,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.5263,8668.984998829343,1
+SH1893,Kolkata,Delhi,Rail,On-Time,Minor Delay,1.10425,11321.798624316236,0
+SH1650,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.7459999999999998,11084.08355398081,1
+SH0395,Kolkata,Delhi,Rail,On-Time,On-Time,1.37245,76033.6461218594,1
+SH0715,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,3.5547,48711.60921233241,1
+SH1422,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.68885,13563.187095610749,1
+SH1553,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,2.35735,55161.13197520747,0
+SH0737,Hamburg,Charleston,Maritime,On-Time,On-Time,0.34265,17830.69600159398,1
+SH0931,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.87425,107563.38843754602,0
+SH0885,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.9096,144446.00183862617,1
+SH0657,Chennai,Bangalore,Rail,On-Time,On-Time,0.4122,10836.229767312305,1
+SH1476,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.6199,7419.580463359729,1
+SH1026,Chennai,Bangalore,Rail,Minor Delay,Minor Delay,1.7613,96123.22891299298,1
+SH1782,Hamburg,Charleston,Maritime,On-Time,On-Time,1.5366,16792.89193617337,1
+SH0293,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.2013,46378.9131341396,1
+SH1643,Chennai,Bangalore,Rail,Minor Delay,Major Delay,2.80865,116075.66247950144,0
+SH1510,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.7874,79621.37018707884,1
+SH1787,Hamburg,Charleston,Maritime,On-Time,On-Time,0.7398499999999999,6053.174855547351,1
+SH0366,Chennai,Bangalore,Rail,On-Time,On-Time,0.72275,1526.7576828328536,1
+SH1302,Hamburg,Charleston,Maritime,Major Delay,Major Delay,1.4522,8152.133158752737,1
+SH0181,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,1.4121,26229.95509779772,0
+SH0324,Chennai,Bangalore,Rail,Major Delay,Major Delay,2.81345,45057.13010927687,1
+SH0519,Kolkata,Delhi,Rail,Major Delay,Major Delay,3.36805,103401.94047367656,1
+SH1665,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.2688,13420.569767253784,1
+SH1616,Shenzhen,Long Beach,Maritime,Major Delay,Minor Delay,1.70785,53895.9570285448,0
+SH0353,Delhi,Mumbai,Rail,On-Time,On-Time,1.38585,27064.775484624755,1
+SH0068,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.34065,28822.508517998776,1
+SH0967,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.95975,34813.473998578,1
+SH0609,Chennai,Bangalore,Rail,On-Time,On-Time,0.97105,16865.5840325034,1
+SH0272,Chennai,Bangalore,Rail,On-Time,Minor Delay,1.623,96132.16324477634,0
+SH1114,Kolkata,Delhi,Rail,Minor Delay,Major Delay,1.86595,196462.8637310326,0
+SH1847,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.3010000000000002,16802.595594715924,1
+SH0105,Chennai,Bangalore,Rail,On-Time,On-Time,0.5598,3973.306351611222,1
+SH0811,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.94865,1454.837882272374,1
+SH1328,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.76105,10344.257767870067,1
+SH1042,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.02975,35568.646942201936,1
+SH0410,Chennai,Bangalore,Rail,On-Time,On-Time,0.7980499999999999,59726.65631499103,1
+SH0242,Paris,Lyon,Rail,On-Time,On-Time,0.6142500000000001,117330.51680644888,1
+SH0853,Frankfurt,Berlin,Rail,On-Time,On-Time,0.7757999999999999,361812.6664691206,1
+SH0802,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.38305,142997.54212832134,1
+SH0555,Paris,Lyon,Rail,Major Delay,Major Delay,1.82975,78463.46424674896,1
+SH1011,Rotterdam,New York,Maritime,On-Time,On-Time,1.0089,23571.497278203748,1
+SH0329,Paris,Lyon,Rail,Minor Delay,Minor Delay,1.40295,1694.926047131133,1
+SH1864,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,1.8788,3325.2843221193625,1
+SH1324,Delhi,Mumbai,Rail,On-Time,On-Time,0.94085,8987.110199629862,1
+SH0148,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.1688,163856.5340295239,1
+SH1010,Delhi,Mumbai,Rail,On-Time,On-Time,0.99165,3812.2765308978856,1
+SH1783,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.16465,44416.37326015723,1
+SH1246,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.73765,17241.635773281363,1
+SH1311,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.55375,270053.4572118141,1
+SH1247,Frankfurt,Berlin,Rail,Major Delay,Minor Delay,1.7571,5623.586451759801,0
+SH1408,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.20465,40212.11608177643,1
+SH0973,Chennai,Bangalore,Rail,Major Delay,Minor Delay,1.2445499999999998,65265.7665118108,0
+SH1813,Kolkata,Delhi,Rail,Major Delay,Major Delay,2.141549999999999,40956.151114835215,1
+SH1452,Paris,Lyon,Rail,On-Time,On-Time,0.9313,3784.458554567485,1
+SH0240,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.52225,18341.367408153517,1
+SH1450,Kolkata,Delhi,Rail,Major Delay,Major Delay,1.75335,7326.816523777708,1
+SH1897,Frankfurt,Berlin,Rail,On-Time,On-Time,1.02305,1677.0670771187758,1
+SH0586,Rotterdam,New York,Maritime,On-Time,On-Time,0.32825,1312.992012889542,1
+SH0884,Kolkata,Delhi,Rail,On-Time,On-Time,0.8844,5516.697341083319,1
+SH1657,Mumbai,Felixstowe,Maritime,Minor Delay,Major Delay,1.3625,12871.439080957722,0
+SH0585,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.2187,14411.5465417428,1
+SH1911,Hamburg,Charleston,Maritime,On-Time,On-Time,1.2877,10109.585025204957,1
+SH1207,Paris,Lyon,Rail,Major Delay,Major Delay,1.8043,97556.84942928024,1
+SH0111,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.10905,83532.75675070377,1
+SH0210,Kolkata,Delhi,Rail,On-Time,On-Time,1.18845,54920.82654025605,1
+SH0169,Rotterdam,New York,Maritime,On-Time,On-Time,0.45065,70254.62926078604,1
+SH0820,Frankfurt,Berlin,Rail,Minor Delay,Major Delay,1.7701,4107.880324382502,0
+SH1220,Frankfurt,Berlin,Rail,On-Time,On-Time,0.916,6133.369074771203,1
+SH1282,Chennai,Bangalore,Rail,On-Time,On-Time,1.54235,15111.265144423154,1
+SH1909,Shanghai,Los Angeles,Maritime,On-Time,On-Time,1.0563,76267.77797351636,1
+SH1194,Delhi,Mumbai,Rail,Minor Delay,On-Time,1.0038999999999998,35136.69389038899,0
+SH0882,Hamburg,Charleston,Maritime,Minor Delay,Minor Delay,1.1732,20057.487286748063,1
+SH1189,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.4112,4026.592565197357,1
+SH1669,Delhi,Mumbai,Rail,On-Time,Minor Delay,0.9284,22973.80619390484,0
+SH0484,Mumbai,Felixstowe,Maritime,Major Delay,Minor Delay,1.7399,84152.68117348397,0
+SH1113,Delhi,Mumbai,Rail,On-Time,On-Time,1.0159999999999998,13181.262685445949,1
+SH0469,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,1.988,420.198461182842,1
+SH1170,Rotterdam,New York,Maritime,On-Time,On-Time,0.83475,2852.5749800308686,1
+SH0784,Frankfurt,Berlin,Rail,Minor Delay,Major Delay,1.03695,47585.43727844986,0
+SH1008,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.01075,2065.7045666295526,1
+SH0809,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.87075,2427.382837916712,1
+SH1513,Delhi,Mumbai,Rail,Major Delay,Major Delay,3.61855,15342.953607545564,1
+SH1454,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.8554,5487.694466798594,1
+SH1251,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.74115,165673.38798655514,1
+SH0021,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.9135,13995.815021660248,1
+SH0476,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.07155,3212.439492633511,1
+SH1133,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.4886499999999998,46028.15979693332,1
+SH1058,Mumbai,Felixstowe,Maritime,Major Delay,Minor Delay,1.4417,169880.61438015534,0
+SH0167,Chennai,Bangalore,Rail,On-Time,On-Time,1.0843,19325.91126093267,1
+SH1714,Hamburg,Charleston,Maritime,On-Time,On-Time,1.036,49281.707372253055,1
+SH1466,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,1.6487000000000005,125406.01421866885,1
+SH1688,Rotterdam,New York,Maritime,Minor Delay,Major Delay,2.4339,4631.374856793727,0
+SH0330,Rotterdam,New York,Maritime,On-Time,On-Time,0.90995,35230.50666478855,1
+SH1504,Frankfurt,Berlin,Rail,Major Delay,Major Delay,1.85705,6894.460343841116,1
+SH0894,Chennai,Bangalore,Rail,On-Time,On-Time,0.52905,12994.335426745834,1
+SH1683,Mumbai,Felixstowe,Maritime,Minor Delay,Major Delay,1.6783,64342.841955893775,0
+SH1264,Hamburg,Charleston,Maritime,Major Delay,Major Delay,2.4809,6453.435849387745,1
+SH1979,Rotterdam,New York,Maritime,Minor Delay,Minor Delay,1.7672999999999996,7092.310831299918,1
+SH1759,Hamburg,Charleston,Maritime,Major Delay,Major Delay,4.06795,27696.37990501896,1
+SH0711,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.404,25574.125492663385,1
+SH1623,Paris,Lyon,Rail,Minor Delay,Minor Delay,1.14415,4421.682897689267,1
+SH1090,Delhi,Mumbai,Rail,Major Delay,Major Delay,2.1381,14141.9812386168,1
+SH1074,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.65215,16616.619780235014,1
+SH0192,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.8994500000000001,9362.549832544477,1
+SH0893,Hamburg,Charleston,Maritime,Major Delay,Major Delay,3.5665,84380.65861828238,1
+SH0256,Delhi,Mumbai,Rail,On-Time,On-Time,1.06865,9219.052505769963,1
+SH1046,Hamburg,Charleston,Maritime,Major Delay,Major Delay,1.73925,9102.367487747655,1
+SH0689,Delhi,Mumbai,Rail,Minor Delay,Minor Delay,1.34795,103985.84841771684,1
+SH0454,Kolkata,Delhi,Rail,On-Time,On-Time,1.22905,18827.51422386254,1
+SH0408,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.21675,17867.21322992823,1
+SH0505,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.7963999999999999,29373.092628203816,1
+SH0947,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.6028,4857.098382227276,1
+SH0908,Kolkata,Delhi,Rail,On-Time,On-Time,0.9951,305690.5182379897,1
+SH0667,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.3763,29734.125768996368,1
+SH0130,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.6706,7015.749519931533,1
+SH1589,Chennai,Bangalore,Rail,On-Time,On-Time,0.8847999999999999,7541.710344609428,1
+SH1687,Hamburg,Charleston,Maritime,On-Time,On-Time,0.4619500000000001,60378.11437676522,1
+SH1494,Kolkata,Delhi,Rail,Major Delay,Minor Delay,1.3129,2792.846938351297,0
+SH1446,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.059,24540.40631251376,1
+SH0358,Delhi,Mumbai,Rail,On-Time,On-Time,1.29945,19638.1542051952,1
+SH1712,Paris,Lyon,Rail,Major Delay,Major Delay,3.86155,44728.45662344396,1
+SH1265,Chennai,Bangalore,Rail,On-Time,On-Time,0.42985,72857.8426294627,1
+SH1242,Delhi,Mumbai,Rail,On-Time,On-Time,0.55815,35901.151197917075,1
+SH0450,Chennai,Bangalore,Rail,On-Time,On-Time,1.06985,26608.719224560453,1
+SH1760,Chennai,Bangalore,Rail,On-Time,On-Time,1.4270499999999997,511541.0036192069,1
+SH0252,Rotterdam,New York,Maritime,Major Delay,Major Delay,2.5792,12215.01075795138,1
+SH0318,Chennai,Bangalore,Rail,On-Time,On-Time,0.3802999999999999,1396.9978709729153,1
+SH0537,Shanghai,Los Angeles,Maritime,Major Delay,Major Delay,2.1461,23901.54349572221,1
+SH1137,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.8893499999999994,29142.708715645196,1
+SH1769,Hamburg,Charleston,Maritime,Minor Delay,Major Delay,1.74775,9356.538301991322,0
+SH0760,Rotterdam,New York,Maritime,Major Delay,Major Delay,3.0034,41404.70678366708,1
+SH0451,Chennai,Bangalore,Rail,On-Time,On-Time,1.2788999999999997,21049.26680551253,1
+SH0530,Frankfurt,Berlin,Rail,On-Time,On-Time,0.5067999999999999,149202.55792806434,1
+SH1285,Delhi,Mumbai,Rail,On-Time,On-Time,0.98845,11639.124240746838,1
+SH1845,Paris,Lyon,Rail,Major Delay,Major Delay,2.2659,14657.867740658656,1
+SH1234,Chennai,Bangalore,Rail,Major Delay,Major Delay,1.82985,92323.81534381576,1
+SH0048,Frankfurt,Berlin,Rail,On-Time,On-Time,0.25395,29668.39285106661,1
+SH0763,Mumbai,Felixstowe,Maritime,On-Time,On-Time,1.0521,5208.394408754352,1
+SH1409,Shenzhen,Long Beach,Maritime,On-Time,On-Time,0.74875,144121.67921443516,1
+SH0067,Rotterdam,New York,Maritime,On-Time,On-Time,1.2036,5696.452439029007,1
+SH1796,Paris,Lyon,Rail,Minor Delay,Major Delay,1.6264499999999995,94850.91992774152,0
+SH0095,Paris,Lyon,Rail,Major Delay,Major Delay,1.9845,229946.83846370332,1
+SH0031,Rotterdam,New York,Maritime,On-Time,On-Time,0.6567999999999999,276706.4435419454,1
+SH0062,Frankfurt,Berlin,Rail,Minor Delay,Major Delay,1.74935,161737.3165209499,0
+SH0079,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.4499499999999994,42120.46378377554,1
+SH0440,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.101,25708.12448270248,1
+SH0817,Chennai,Bangalore,Rail,Major Delay,Minor Delay,1.2432,15086.513623209969,0
+SH0222,Paris,Lyon,Rail,Major Delay,Major Delay,2.5892,179979.76235546204,1
+SH1888,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.5599,332963.8256402492,1
+SH0232,Paris,Lyon,Rail,Minor Delay,Minor Delay,0.9839,476735.9933938416,1
+SH1739,Rotterdam,New York,Maritime,On-Time,On-Time,1.08275,6532.128135880308,1
+SH0535,Frankfurt,Berlin,Rail,Major Delay,Major Delay,2.01585,4807.309884526345,1
+SH0286,Mumbai,Felixstowe,Maritime,Major Delay,Major Delay,2.2829,35643.23929544691,1
+SH1022,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.51495,4566.893109024001,1
+SH1185,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.1023,107073.9233097944,1
+SH1493,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.37095,162997.73614171508,1
+SH0141,Hamburg,Charleston,Maritime,On-Time,On-Time,0.8143499999999999,36234.45696260317,1
+SH0846,Frankfurt,Berlin,Rail,On-Time,On-Time,1.5501,21573.19386605289,1
+SH1169,Shenzhen,Long Beach,Maritime,On-Time,On-Time,1.38875,6637.008520172114,1
+SH1394,Shenzhen,Long Beach,Maritime,Major Delay,Major Delay,2.9372000000000003,535.9159776100653,1
+SH0267,Hamburg,Charleston,Maritime,On-Time,On-Time,0.5085000000000001,193013.61320919095,1
+SH1635,Frankfurt,Berlin,Rail,Minor Delay,Minor Delay,1.20345,10477.707174062469,1
+SH0037,Frankfurt,Berlin,Rail,On-Time,On-Time,0.7911999999999999,11814.325849754685,1
+SH1862,Paris,Lyon,Rail,On-Time,On-Time,0.5761,1075.979866393425,1
+SH0658,Kolkata,Delhi,Rail,On-Time,On-Time,1.3900500000000002,4345.829604195314,1
+SH0418,Paris,Lyon,Rail,Major Delay,Major Delay,2.89,8578.330811603644,1
+SH0218,Shenzhen,Long Beach,Maritime,Minor Delay,Major Delay,2.069,10074.588395809084,0
+SH0325,Shanghai,Los Angeles,Maritime,On-Time,On-Time,0.5755,31217.36931257249,1
+SH1879,Mumbai,Felixstowe,Maritime,On-Time,On-Time,0.7145,16210.116237335476,1
+SH0335,Hamburg,Charleston,Maritime,On-Time,On-Time,0.72895,6980.101617866169,1
